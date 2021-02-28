@@ -23,7 +23,8 @@ The `master` branch always expects the latest version of lnd. Lnd compiled with 
 2. `git clone https://github.com/hsjoberg/dunder-lsp && cd dunder-lsp`
 3. Copy `config/default.json_TEMPLATE` to `config/default.json` and set up your configuration
 4. `yarn`
-5. `yarn start`
+5. `yarn proto`
+6. `yarn start`
 
 # Test
 
